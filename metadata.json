@@ -1,0 +1,8 @@
+{
+  "name": "Dost: Spatial Mental Hygiene",
+  "description": "A high-fidelity mental wellness platform utilizing Glassmorphism and Spatial UI to gamify mental health habits and connect users with AI-moderated support systems.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
